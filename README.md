@@ -41,9 +41,3 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 
----
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[ваш-ник]&style=for-the-badge&color=blue" alt="profile views"/>
-</p>
