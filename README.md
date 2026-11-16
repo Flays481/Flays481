@@ -65,14 +65,6 @@
 
 ---
 
-## 📈 График активности
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[ваш-ник]&theme=tokyo-night&hide_border=true" alt="activity"/>
-</p>
-
----
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=[ваш-ник]&style=for-the-badge&color=blue" alt="profile views"/>
