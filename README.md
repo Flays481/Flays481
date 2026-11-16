@@ -25,6 +25,7 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Pyton](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=python&logoColor=black)
 
 **Инструменты**
 
