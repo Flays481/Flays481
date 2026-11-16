@@ -57,14 +57,6 @@
 
 ---
 
-## 🏆 Трофеи
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[ваш-ник]&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
-</p>
-
----
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=[ваш-ник]&style=for-the-badge&color=blue" alt="profile views"/>
