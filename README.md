@@ -44,19 +44,6 @@
 
 ---
 
-## 📊 Статистика GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=[ваш-ник]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ваш-ник]&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="langs"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[ваш-ник]&theme=tokyonight&hide_border=true" alt="streak"/>
-</p>
-
----
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=[ваш-ник]&style=for-the-badge&color=blue" alt="profile views"/>
