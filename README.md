@@ -1,4 +1,4 @@
-<h1 align="center">Привет 👋, я [Ваше Имя]</h1>
+<h1 align="center">Привет 👋, я [Flays481]</h1>
 <h3 align="center">Frontend / Fullstack разработчик — JavaScript, TypeScript, React, Vue, Java</h3>
 
 <p align="center">
@@ -12,11 +12,9 @@
 
 ## 🧑‍💻 Обо мне
 
-- 🔭 Сейчас работаю над **[название проекта]**
-- 🌱 Изучаю **[например, Next.js / Spring Boot]**
+- 🔭 Сейчас работаю над **[Vue-site]**
+- 🌱 Изучаю **[Next.js, React, TS]**
 - 💬 Спросите меня о **React, Vue, TypeScript, Java**
-- 📫 Как связаться: **[email]**
-- ⚡ Факт: **[любая интересная строчка]**
 
 ---
 
@@ -75,15 +73,6 @@
 
 ---
 
-## 🚀 Избранные проекты
-
-| Проект | Описание | Стек |
-|---|---|---|
-| [project-1](https://github.com/[ваш-ник]/project-1) | [Краткое описание] | React, TS |
-| [project-2](https://github.com/[ваш-ник]/project-2) | [Краткое описание] | Vue, TS |
-| [project-3](https://github.com/[ваш-ник]/project-3) | [Краткое описание] | Java, Spring |
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=[ваш-ник]&style=for-the-badge&color=blue" alt="profile views"/>
