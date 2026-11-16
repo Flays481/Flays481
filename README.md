@@ -14,7 +14,6 @@
 
 - 🔭 Сейчас работаю над **[Vue-site]**
 - 🌱 Изучаю **[Next.js, React, TS]**
-- 💬 Спросите меня о **React, Vue, TypeScript, Java**
 
 ---
 
